@@ -1,2 +1,2 @@
 # Email-Workers-to-Bluesky
-Post to Bluesky via Cloudflare Email Workers
+An Example of Post to something by Email via Cloudflare Email Workers.
