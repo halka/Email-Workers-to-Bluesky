@@ -53,7 +53,7 @@ export default {
           "text": text.trim(),
           "createdAt": (new Date()).toISOString(),
           "langs": ["ja"],
-          "via": via
+          // "via": via
         }
       };
       const requestHeader = {
